@@ -5,7 +5,6 @@
 *.log
 *.vs
 *_qmlcache.qrc
-*.vcxproj
 *.filters
 *.stash
 debug/
